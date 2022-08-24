@@ -1,0 +1,205 @@
+@media (min-width:1024px){
+    .welcomeImg{
+        height: 750px;
+        width: 100%;
+        margin: none;
+     }
+     .logo{
+      position: absolute;
+      top: 4%;
+      left: 2%;
+      height: 45px;
+      width: 100px;
+     }
+     .navBar{
+      position: absolute;
+      top: 3%;
+      left: 35%;
+      display: flex;
+      align-items: center;
+     }
+     .txtBtn{
+      margin-top: 5px;
+     }
+     .userBar{
+        position: absolute;
+        top:5%;
+        left:83%;
+     }
+     .btnNavBar{
+        border: none;
+        margin: 10px;
+        background: none;
+        color: white;
+        font-size: 18px;
+        font-weight: bold;
+        border-right: 1px solid white;
+        padding-right: 20px;
+        height: 55px;
+     }
+     .btnUser{
+        border: none;
+        margin: 10px;
+        background: none;
+        color: white;
+        font-size: 16px;
+        border-right: 1px solid white;
+        padding-right: 10px ;
+     }
+     .btnBuy{
+      border: none;
+      background: none;
+      color: white;
+      font-size: 16px;
+     }
+     .welcomeTxt{
+        position: absolute;
+        top: 38%;
+        left: 53%;
+        transform: translate(-50%, -50%);
+        color: aliceblue;
+        font-size: 60px;
+     }
+     .shopWelcome{
+        position: absolute;
+        top: 90%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background: none;
+        padding: 20px;
+        padding-left: 35px;
+        padding-right: 35px;
+        color: aliceblue;
+        border: aliceblue solid 2px;
+        font-size: 18px;
+        font-weight: bold;
+     }
+     .pufIcon, .sleepIcon, .umbrellaIcon, .bagIcon{
+        width: 25px;
+        height: 25px;
+        color: aliceblue;
+     }
+     .pufType{
+      display: grid;
+      grid-template-columns: repeat(1, auto);
+      grid-template-rows: repeat(4, auto);
+     }
+     .rainImg, .cartImg{
+      height: 435px;
+      width: 675px;
+      filter: brightness(0.5);
+      margin-top: none;
+      
+     }
+     .puffImg, .pillowImg{
+      margin-left: auto;
+      display: block;
+      height: 435px;
+      width: 675px;
+      filter: brightness(0.5);
+      
+     }
+     .divRain, .divPuffy, .divCart, .divPillow{
+      display: flex;
+      align-items: center;
+      
+     }
+     .btnShopRain, .btnShopCart{
+      position: absolute;
+      left: 20%;
+      background: none;
+      padding: 20px;
+      padding-left: 35px;
+      padding-right: 35px;
+      color: aliceblue;
+      border: aliceblue solid 2px;
+      font-size: 18px;
+     }
+     .btnShopPuff, .btnShopPillow{
+      position: absolute;
+      right: 20%;
+      background: none;
+      padding: 20px;
+      padding-left: 35px;
+      padding-right: 35px;
+      color: aliceblue;
+      border: aliceblue solid 2px;
+      font-size: 18px;
+     }
+     .infoProd{
+      text-align: center;
+      margin-left: 12%;
+     }
+     .more{
+      font-size: 15px;
+      background: none;
+      border: none;
+     }
+     hr{
+      width: 50px;
+     }
+     .RRSS, .sub{
+      text-align: center;
+     }
+     .collage{
+      
+      display: block;
+      margin: 0px auto;
+      width: 45%;
+      height: 65%;
+     }
+     .form{
+      
+      bottom: 10%;
+      text-align: center;
+     }
+     .inputEmail{
+      height: 30px;
+      width: 350px;
+      padding: 5px;
+     }
+     .flecha, .submitBtn{
+      height: 15px;
+      width: 15px;
+      background: none;
+      border: none;
+      right: 50%;
+     }
+     .separador{
+      width: 100%;
+      color: 2px solid lightgray;
+      margin-top: 12%;
+     }
+     .logoNegro{
+      position: absolute;
+      left: 2%;
+      height: 45px;
+      width: 100px;
+      
+     }
+     .footer{
+      display: flex;
+      align-items: baseline;
+      font-size: 12px;
+     }
+     .typeFooter, .infoFooter, .paySave, .rrssFooter{
+      text-align: center;
+      margin-left: 15%;
+     }
+     .facebook, .twitter, .insta{
+      height: 15px;
+      width: 15px;
+      margin: 5px;
+     }
+     .subcribete, .esPufi{
+      font: 200;
+      font-size: 35px;
+      margin: 5px;
+     }
+     .pufPillow, .colorBag, .pufpuf, .redUmbrella{
+      height: 120px;
+      width: 120px;
+     }
+     
+     
+}
