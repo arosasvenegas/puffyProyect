@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/puffyProyect/static/css/main.265d87fb.css",
+    "main.js": "/puffyProyect/static/js/main.467df64e.js",
+    "static/js/787.789197d8.chunk.js": "/puffyProyect/static/js/787.789197d8.chunk.js",
+    "static/media/redUmbrella.png": "/puffyProyect/static/media/redUmbrella.5fe6e22a53515e6b8743.png",
+    "static/media/collage.jpg": "/puffyProyect/static/media/collage.b65755978159f3fd5359.jpg",
+    "static/media/puff.jpg": "/puffyProyect/static/media/puff.94031a23907dac0ad7d4.jpg",
+    "static/media/puf-sin-fondo.png": "/puffyProyect/static/media/puf-sin-fondo.f6430934becedd110640.png",
+    "static/media/pillow.jpg": "/puffyProyect/static/media/pillow.71e40b6ade857018a380.jpg",
+    "static/media/pufipuff.png": "/puffyProyect/static/media/pufipuff.081eec173b4113b12885.png",
+    "static/media/groceryBag.jpg": "/puffyProyect/static/media/groceryBag.a797b872574360b0780f.jpg",
+    "static/media/umbrella.jpg": "/puffyProyect/static/media/umbrella.4bc3b6f64f33f4292e7e.jpg",
+    "static/media/welcomepuff.jpg": "/puffyProyect/static/media/welcomepuff.daaaac0da9a5b0d725ca.jpg",
+    "static/media/logo.png": "/puffyProyect/static/media/logo.2047ba1abb0effe97681.png",
+    "static/media/pufIcon.png": "/puffyProyect/static/media/pufIcon.478b24fd635c5b6785f4.png",
+    "static/media/umbrellaIcon.png": "/puffyProyect/static/media/umbrellaIcon.d558487f3ce1c010a988.png",
+    "static/media/logoNegro.png": "/puffyProyect/static/media/logoNegro.1954e89b7f404ecc232d.png",
+    "static/media/sleepIcon.png": "/puffyProyect/static/media/sleepIcon.1991f26220451b62db43.png",
+    "static/media/twitter.png": "/puffyProyect/static/media/twitter.8e65601e69067aadfe55.png",
+    "static/media/bolsas-colores.png": "/puffyProyect/static/media/bolsas-colores.7fd8b319f7ed4c04bd34.png",
+    "index.html": "/puffyProyect/index.html",
+    "main.265d87fb.css.map": "/puffyProyect/static/css/main.265d87fb.css.map",
+    "main.467df64e.js.map": "/puffyProyect/static/js/main.467df64e.js.map",
+    "787.789197d8.chunk.js.map": "/puffyProyect/static/js/787.789197d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.265d87fb.css",
+    "static/js/main.467df64e.js"
+  ]
+}
